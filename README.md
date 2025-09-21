@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently Studying Computer Science and Engineering<br>🌱 I’m currently learning MERN STACK<br>📫 How to reach me **pujamavadhiya12@gmail.com**<br>
+🔭 Computer Science Engineer<br>🌱 Full Stack Developer<br>📫 How to reach me **pujamavadhiya12@gmail.com**<br>
 
 
 ## 🌐 Socials:
